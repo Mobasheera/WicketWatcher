@@ -110,11 +110,10 @@ WicketWatcher/
 ---
 
 ## 📷 Screenshots
-
+> ![0](https://github.com/user-attachments/assets/3fd8e852-8e2e-4586-8783-d6e67b569528)
 > ![1](https://github.com/user-attachments/assets/5e4c2cb0-4734-4486-aaf9-03806ba9f8d8)
 > ![2](https://github.com/user-attachments/assets/ef3032db-20fe-45ef-928f-4021500dd7f5)
-
-
+> ![4](https://github.com/user-attachments/assets/7118d146-4493-4697-b6bc-51f1f898747f)
 
 ---
 
