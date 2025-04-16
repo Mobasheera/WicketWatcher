@@ -1,4 +1,4 @@
-# 🏏 WicketWatcher - PyDRS
+# 🏏 WicketWatcher
 
 **WicketWatcher** is a Python-based Third Umpire Decision Review System simulator. Built using **OpenCV**, **Tkinter**, and **PIL**, it allows users to interactively review cricket match footage, navigate frames, and simulate third umpire decisions like "Out" and "Not Out".
 
