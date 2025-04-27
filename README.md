@@ -125,6 +125,6 @@ Want to make it better? Fork the repo, make changes, and open a pull request!
 
 ## 📄 License
 
-This project is for educational and demonstration purposes only.
+This project is licensed under the [MIT License](https://github.com/Mobasheera/WicketWatcher/blob/main/LICENSE).
 
 ---
